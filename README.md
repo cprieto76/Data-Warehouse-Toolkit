@@ -34,4 +34,6 @@
 ■ Deliver data that’s understandable to the business users  
 ■ Deliver fast query performance
 
+- Dimensional modeling is a longstanding technique for making databases simple
+
   
